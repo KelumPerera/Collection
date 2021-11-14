@@ -25,6 +25,7 @@ def my_denomination(amount):
                 #print (i ," : ", j)
         else:
             j= 0
+        j = int(j)
         j1.append(j)
     return j1                
     
